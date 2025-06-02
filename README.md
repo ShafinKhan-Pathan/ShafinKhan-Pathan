@@ -7,7 +7,7 @@ Frontend Software Developer
 Frontend-oriented software developer came from computer science background
 
 * 🌍  I'm based in Houston, Texas
-* 🖥️  See my portfolio at [at](http://shafinkhan-pathan.github.io/AdvancePortfolio/)
+* 🖥️  See my portfolio at [ShafinPortfolio](http://shafinkhan-pathan.github.io/AdvancePortfolio/)
 * ✉️  You can contact me at [kshafin575@gmail.com](mailto:kshafin575@gmail.com)
 * 🚀  I'm currently working on [Nft-Marketplace Frontend Internship](http://shafin-internship.vercel.app/)
 * 🧠  I'm learning Frontend Technologies
