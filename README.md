@@ -9,7 +9,7 @@ Frontend-oriented software developer came from computer science background
 * 🌍  I'm based in Houston, Texas
 * 🖥️  See my portfolio at [ShafinPortfolio](https://shafinkhan.io/)
 * ✉️  You can contact me at [kshafin575@gmail.com](mailto:kshafin575@gmail.com)
-* 🚀  I'm currently working on [Nft-Marketplace Frontend Internship](http://shafin-internship.vercel.app/)
+* 🚀  I'm currently working on [Summarist Frontend Advance Internship](https://summarist-advance-virtual-internshi.vercel.app/)
 * 🧠  I’m focused on deepening my skills to grow my tech career by learning advanced technologies like Next.js, Three.js, and TypeScript.
 * 🤝  I'm open to collaborating on team-based projects where I can contribute with my React knowledge and also explore new tech like Next.js and TypeScript.
 
