@@ -25,8 +25,8 @@ Passionate about clean UI, performance optimization, and solving real-world prob
 <p align="left"> <a href="https://www.github.com/ShafinKhan-Pathan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/shafin-khan-pathan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 ### Badges
 
-## 📊 GitHub Stats
+### GitHub Stats
 
-![Shafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShafinKhan-Pathan&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=ShafinKhan-Pathan&show_icons=true&theme=radical&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafinKhan-Pathan&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafinKhan-Pathan&layout=compact&theme=radical&hide_border=true" />
